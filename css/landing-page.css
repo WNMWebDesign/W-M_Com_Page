@@ -130,6 +130,18 @@ h6 {
     margin-bottom: 0;
 }
 
+.contect {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/edmonton.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+
+.form-control{height:auto}section#contact .form-group textarea.form-control{height:236px}
+
 .banner-social-buttons {
     float: right;
     margin-top: 0;
